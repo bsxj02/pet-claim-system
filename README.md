@@ -1,5 +1,5 @@
 ## 介绍
-&emsp;&emsp;宠物认领、宠物领养，宠物救助，基于SpringBoot的宠物救助及领养系统，具体功能如下图所示。
+&emsp;&emsp;宠物认领系统，宠物领养系统，基于SpringBoot+Vue的宠物认领系统，具体功能如下图所示。
 
 > 1. 后端技术：SpringBoot+MyBatis-Plus
 > 2. 前端技术：Vue
